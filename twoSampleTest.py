@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-# Authors: Trey McNeely and Galen Vincent
+# Authors: 
 # April 2021
 # Updated Nov 2021
 
