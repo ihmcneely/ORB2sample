@@ -1,6 +1,6 @@
 # ORB2sample
 
-This repository contains code associated with our paper "Detecting Distributional Differences in Labeled Sequence Data with Application to Tropical Cyclone Satellite Imagery" by Trey McNeely, Galen Vincent, Kimberly M Wood, Rafael Izbicki, and Ann B Lee.
+This repository contains code associated with our paper "Detecting Distributional Differences in Labeled Sequence Data with Application to Tropical Cyclone Satellite Imagery".
 
 # Contents
 
