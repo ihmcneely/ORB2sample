@@ -8,8 +8,8 @@ import copy as cp
 # In order to download from the merged IR database, you will need to create an
 # account on https://disc.gsfc.nasa.gov/ and follow the instructions at
 # https://disc.gsfc.nasa.gov/data-access
-user = 'imcneely'
-password = 'opendapWD-40_ORB'
+user = ''
+password = ''
 
 # Download hurdat database
 data = hurdat.Hurdat()
